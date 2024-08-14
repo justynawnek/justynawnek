@@ -47,7 +47,7 @@ When I’m not coding or wrangling data, you might find me:
 Whether you want to chat about data, discuss the latest in tech, or just geek out over a shared interest, I’m always up for a good conversation.
 
 - **LinkedIn**: https://www.linkedin.com/in/justyna-wnek96/
-- **GitHub**: [Check out my Repos!](https://github.com/yourprofile)
+- **GitHub**: https://github.com/justynawnek?tab=repositories
 - **Email**: justynacurzytek06@gmail.com
 
 ---

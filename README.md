@@ -40,7 +40,6 @@ I’m not done yet—far from it. Here’s what I’m currently tackling:
 ## 🌍 Beyond the Screen
 When I’m not coding or wrangling data, you might find me:
 - 🏊‍♂️ Swimming laps and working on my butterfly stroke (because data isn't the only thing I like to smooth out).
-- 🎮 Gaming—another way to strategize and solve problems, just with more explosions.
 - 📚 Diving into books on anything from data science to epic fantasy—yes, I read a lot!
 
 ## 📬 Let's Connect!
@@ -48,6 +47,7 @@ Whether you want to chat about data, discuss the latest in tech, or just geek ou
 
 - **LinkedIn**: https://www.linkedin.com/in/justyna-wnek96/
 - **GitHub**: https://github.com/justynawnek?tab=repositories
+- **Tableau Public**: https://public.tableau.com/app/profile/justynawnek
 - **Email**: justynacurzytek06@gmail.com
 
 ---

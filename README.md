@@ -1,55 +1,67 @@
-# 🌟 Hello! I’m Justyna — Your Data Detective 🕵️‍♂️
+# 👋 Hi, I'm Justyna Wnęk — Aspiring Data Analyst | Featured by Maven Analytics
 
-
-## 🎢 My Journey in a Nutshell
 Imagine someone who started their career journey in the clouds (literally, with a degree in Air Transport & Logistics Management) and then decided to dive deep into the ocean of data. That's me!
+After spending years navigating the world of customer service, I realized that my true passion lies in data—finding patterns, telling stories through numbers, and making decisions based on solid evidence.
+Recognized by [Maven Analytics as a top analyst to hire (Winter 2025)](https://mavenanalytics.io/blog/analysts-you-can-hire-winter-2025#:~:text=her%20on%20LinkedIn!-,Justyna%20Wn%C4%99k,-Location%3A%20Poland), I’m building a hands-on portfolio that combines analytical thinking, technical skills, and impactful visual storytelling.
 
-After spending years navigating the world of customer service, I realized that my true passion lies in data—finding patterns, telling stories through numbers, and making decisions based on solid evidence. So here I am, switching lanes and speeding down the data highway, determined to make sense of all the chaos.
 
-## 🛠️ My Data Toolkit
-Here’s what you’ll find in my toolkit:
+## What I'm Doing Now
 
-- **📊 Data Viz Extraordinaire**: Turning raw data into compelling stories with **Tableau**, **Looker Studio**, and **Power BI**.
-- **🐍 Python Whisperer**: Making data behave with **pandas**, **NumPy**, and **matplotlib**.
-- **🧠 SQL Sleuth**: Querying databases like a pro, because who needs sleep when you have **SQL**?
-- **☁️ Big Data Wrangler**: Wrestling with large datasets in **Google BigQuery**.
-- **🔍 Problem Solver**: My brain is wired to spot inconsistencies and fix them—before my morning coffee.
+-  Actively upskilling in data analysis through self-driven projects and real-world challenges
+-  Regular contributor to [Maven Analytics Challenges](https://mavenanalytics.io/challenges)
+-  Developing interactive dashboards and analytics tools using Python, SQL, Tableau, and Power BI
+-  Working toward cloud proficiency with Google BigQuery and data scaling techniques
 
-## 🛠️ Projects I've Tackled
-### 1. **Marketing Campaign CSI 🕵️**
-   - **Objective**: Dive into marketing data to find out what worked and what didn't.
-   - **Tools**: SQL, Tableau
-   - **My Role**: I was the data detective who uncovered hidden insights, helping the team refine their strategies.
 
-### 2. **Retail Market Labyrinth 🛒**
-   - **Objective**: Map out the retail landscape and guide stakeholders through it.
-   - **Tools**: Tableau, Power BI
-   - **My Role**: Created visually stunning and highly informative dashboards that cut through the noise.
+## Tools & Skills
 
-### 3. **Pythonic Clean-Up 🧹**
-   - **Objective**: Transform messy data into something beautiful (and useful).
-   - **Tools**: Python, pandas, Matplotlib, Seaborn
-   - **My Role**: The magician behind the curtain, making sure the data was spotless and the visualizations were on point.
+- **Languages**: Python (pandas, NumPy, matplotlib, seaborn), SQL  
+- **BI & Visualization**: Tableau, Power BI, Looker Studio  
+- **Cloud & Data Platforms**: Google BigQuery  
+- **Strengths**: Insightful analysis, clear communication, and a detective-like attention to detail  
 
-## 🧗‍♂️ What’s Next on My Climb
-I’m not done yet—far from it. Here’s what I’m currently tackling:
-- **🛠️ Advanced SQL Techniques**: Because there's always more to learn.
-- **🤖 Dipping My Toes into Machine Learning**: Time to see what all the buzz is about!
-- **🌐 Cloud Adventures**: Exploring how to scale data solutions in the cloud.
 
-## 🌍 Beyond the Screen
-When I’m not coding or wrangling data, you might find me:
-- 🏊‍♂️ Swimming laps and working on my butterfly stroke (because data isn't the only thing I like to smooth out).
-- 📚 Diving into books on anything from data science to epic fantasy—yes, I read a lot!
+## Highlight Projects
 
-## 📬 Let's Connect!
-Whether you want to chat about data, discuss the latest in tech, or just geek out over a shared interest, I’m always up for a good conversation.
+### Application Rating System
+**Technologies**: Python, Pandas, Matplotlib  
+Developed a scoring system to evaluate and rank applications based on custom logic. Cleaned and enriched data, integrated external industry factors, and visualized weekly application score trends.
+
+### Marketing Campaign Performance
+**Technologies**: SQL, Tableau  
+Wrote advanced SQL queries to extract KPIs and performance trends from a large marketing dataset. Created interactive Tableau dashboards to provide clear, actionable insights for optimization.
+
+### Stack Overflow Survey Analysis
+**Technologies**: Python, Pandas, Matplotlib  
+Analyzed the Stack Overflow Developer Survey to explore trends in developer tools, technologies, and employment. Presented findings using effective visualizations to illustrate key patterns.
+
+### Facebook Ads Campaign Analysis
+**Technologies**: Python, Seaborn  
+Processed ad performance data to evaluate Return on Marketing Investment (ROMI). Created heatmaps, scatter plots, and time series visualizations to identify trends and guide ad strategy.
+
+### Conversion Funnel Analysis
+**Technologies**: Google BigQuery, Tableau  
+Queried GA4 web analytics data to build a dashboard that tracked user conversions, revenue metrics, and engagement behavior. Insights guided adjustments to marketing and UX strategy.
+
+### Halloween Candy Challenge (Maven)
+**Technologies**: Python, Tableau  
+Ranked Halloween candies by win rate, sugar range, and price-to-win ratio. Used Python to structure data and Tableau to visualize and filter ideal combinations. Final selection included Kit Kat, Nerds, and Snickers — diverse and high-performing.
+
+## What’s Next
+
+- Diving deeper into advanced SQL and data modeling  
+- Learning how to scale solutions in cloud environments  
+- Beginning hands-on projects in machine learning fundamentals  
+
+## Let's Connect
+
+If you're looking for a motivated analyst who pairs business insight with technical precision, I’d love to collaborate.
 
 - **LinkedIn**: https://www.linkedin.com/in/justyna-wnek96/
 - **GitHub**: https://github.com/justynawnek?tab=repositories
 - **Tableau Public**: https://public.tableau.com/app/profile/justynawnek
 - **Email**: justynacurzytek06@gmail.com
 
----
 
-*Thanks for dropping by my GitHub—let’s make data awesome together!*
+*Thanks for visiting — let’s turn data into decisions together!*
+
